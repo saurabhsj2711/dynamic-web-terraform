@@ -1,5 +1,5 @@
-# access_key = "AKIA4X2DY6RYUV3E7TNP"
-# secret_key = "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"
+access_key = "AKIA3FLDXE2HDEVSMPDV"
+secret_key = "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"
 vpc_name    = "webapp-vpc-test"
 subnet1-name  = "webapp-subnet-public-1-test"
 subnet2-name  = "webapp-subnet-private-1-test"
